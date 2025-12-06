@@ -2,6 +2,8 @@
 
 一个基于终端的简易ASCII动画播放器。
 
+![效果展示](https://github.com/NetSalmon/ciallo-from-terminal/blob/main/img/img.png?raw=true)
+
 ## 快速开始
 
 ### 直接运行（推荐）
